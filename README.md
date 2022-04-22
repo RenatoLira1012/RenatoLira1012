@@ -17,8 +17,6 @@
 </p>        
   
 <br>
-<br>
-
 <p align="left">
 <a href="mailto:renatoliradev@gmail.com" alt="Gmail" target="_blank">
     <img src="https://img.shields.io/badge/-Gmail-6610F2?style=for-the-badge&logo=Gmail&logoColor=FFFFFF&link=mailto:renatoliradev@gmail.com"/></a>
@@ -26,13 +24,17 @@
   <a href="https://www.linkedin.com/in/renatoliradev" alt="Linkedin" target="_blank">
     <img src="https://img.shields.io/badge/-Linkedin-6610F2?style=for-the-badge&logo=Linkedin&logoColor=FFFFFF&link=https://www.linkedin.com/in/renatoliradev"/></a>
   
-  <a href="https://www.instagram.com/renatolira.dev" alt="Instagram" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-6610F2?style=for-the-badge&logo=Instagram&logoColor=FFFFFF&link=https://www.instagram.com/renatolira.dev"/></a>
+  <a href="https://www.instagram.com/_renatolira_" alt="Instagram" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-6610F2?style=for-the-badge&logo=Instagram&logoColor=FFFFFF&link=https://www.instagram.com/_renatolira_"/></a>
 </p>
 
 <br>
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=renatoliradev&layout=compact)
+<div align="center">
+	<img width="450em" alt="Status Github Renato Lira" src="https://github-readme-stats.vercel.app/api?username=renatoliradev&show_icons=true&theme=dracula" />
+	<img width="380em" alt="Linguagens mais usadas" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renatoliradev&layout=compact&theme=dracula"/>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=renatoliradev&show_icons=true&theme=radical)
+
+![Snake animation](https://github.com/renatoliradev/renatoliradev/blob/output/github-contribution-grid-snake.svg)
+</div>
