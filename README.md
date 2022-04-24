@@ -30,8 +30,6 @@
 </p>
 <br>
 <div align="center">
-<img align="left" width="450em" src="https://github-readme-stats.vercel.app/api/top-langs?username=renatoliradev&show_icons=true&theme=dracula&locale=pt-br&layout=compact" alt="renatoliradev" />
-&nbsp;
 <img width="450em" src="https://github-readme-stats.vercel.app/api?username=renatoliradev&theme=dracula&show_icons=true&locale=pt-br" alt="renatoliradev" />
-![Snake animation](https://github.com/renatoliradev/renatoliradev/blob/output/github-contribution-grid-snake.svg)
+<img width="350em" src="https://github-readme-stats.vercel.app/api/top-langs?username=renatoliradev&show_icons=true&theme=dracula&locale=pt-br&layout=compact" alt="renatoliradev" />
 </div>
