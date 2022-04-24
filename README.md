@@ -29,7 +29,7 @@
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" />
 </p>
 <br>
-<div align="center">
+<div align="left">
 <img width="400em" src="https://github-readme-stats.vercel.app/api?username=renatoliradev&theme=dracula&show_icons=true&locale=pt-br" alt="renatoliradev" />
 <img width="350em" src="https://github-readme-stats.vercel.app/api/top-langs?username=renatoliradev&show_icons=true&theme=dracula&locale=pt-br&layout=compact" alt="renatoliradev" />
 </div>
