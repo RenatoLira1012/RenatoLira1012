@@ -30,6 +30,6 @@
 </p>
 <br>
 <div align="center">
-<img width="450em" src="https://github-readme-stats.vercel.app/api?username=renatoliradev&theme=dracula&show_icons=true&locale=pt-br" alt="renatoliradev" />
+<img width="400em" src="https://github-readme-stats.vercel.app/api?username=renatoliradev&theme=dracula&show_icons=true&locale=pt-br" alt="renatoliradev" />
 <img width="350em" src="https://github-readme-stats.vercel.app/api/top-langs?username=renatoliradev&show_icons=true&theme=dracula&locale=pt-br&layout=compact" alt="renatoliradev" />
 </div>
