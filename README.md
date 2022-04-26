@@ -2,8 +2,8 @@
     <h1>Olá, sou o Renato Lira</h1>
     <h3 align="center">Desenvolvedor Front-End</h3>
 </div>
-
-<img src="https://github.com/iuricode/iuricode/blob/main/ilus-code.svg" min-width="250px" max-width="250px" width="250px" align="right" alt="logo" style="margin-right: 20px;">
+<br>
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="250px" max-width="250px" width="250px" align="right" alt="logo" style="margin-right: 20px;">
 <ul>
     <li>🌱 <strong>Estudando:</strong> NodeJS, ReactJS e TypeScript </li>
     <li>📫 <strong>Conecte comigo:</strong> <a style="text-decoration: none;" href="mailto:renatoliradev@gmail.com">renatoliradev@gmail.com</a> </li>
