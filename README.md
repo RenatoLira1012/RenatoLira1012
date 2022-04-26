@@ -5,7 +5,7 @@
 
 <img src="https://github.com/iuricode/iuricode/blob/main/ilus-code.svg" min-width="250px" max-width="250px" width="250px" align="right" alt="logo" style="margin-right: 20px;">
 <ul>
-    <li>🌱 <strong>Estudando:</strong> NodeJS, React e React Native </li>
+    <li>🌱 <strong>Estudando:</strong> NodeJS, ReactJS e TypeScript </li>
     <li>📫 <strong>Conecte comigo:</strong> <a style="text-decoration: none;" href="mailto:renatoliradev@gmail.com">renatoliradev@gmail.com</a> </li>
 </ul>
 <h3 align="left">Redes Sociais:</h3>
@@ -13,11 +13,15 @@
     <a href="https://fb.com/renatooolira" target="blank">
         <img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
-            alt="renatooolira" height="30" width="40" /></a>
+            alt="Facebook de Renato Lira" height="30" width="40" /></a>
     <a href="https://instagram.com/_renatolira_" target="blank">
         <img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-            alt="_renatolira_" height="30" width="40" /></a>
+            alt="Instagram de Renato Lira" height="30" width="40" /></a>
+	<a href="https://www.linkedin.com/in/renatoliradev" target="blank">
+        <img align="center"
+            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+            alt="LinkedIn de Renato Lira" height="30" width="40" /></a>
 </p>
 <h3 align="left" style="margin-left: 20px;">Linguagens e Ferramentas:</h3>
 <p align="left" style="margin-left: 20px; background: #FFFFFF;"> 
