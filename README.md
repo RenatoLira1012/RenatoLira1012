@@ -1,5 +1,5 @@
-<div align="center">
-    <h1>Olá, sou o Renato Lira</h1>
+/* <div align="center">
+    <h1>Renato Lira</h1>
     <h3 align="center">Software Developer</h3>
 </div>
 <br>
@@ -43,4 +43,4 @@
 <div align="left">
 <img width="400em" src="https://github-readme-stats.vercel.app/api?username=renatoliradev&theme=dracula&show_icons=true&locale=pt-br" alt="renatoliradev" />
 <img width="350em" src="https://github-readme-stats.vercel.app/api/top-langs?username=renatoliradev&show_icons=true&theme=dracula&locale=pt-br&layout=compact" alt="renatoliradev" />
-</div>
+</div> */
